@@ -1,0 +1,5 @@
+{
+    "name": "pintlabs/pintlabs_service_untappd",
+    "description": "PHP library to interact with the public Untappd API version 4, patterned after other service libraries in Zend Framework.",
+    "license": "MIT"
+}
